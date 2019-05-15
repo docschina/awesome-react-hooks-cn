@@ -1,56 +1,56 @@
 # awesome-react-hooks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome React Hooks Resources
+> Awesome React Hooks 资源
 
-## Documentation
+## 文档
 
-- [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
+- [React Hooks 文档](https://zh-hans.reactjs.org/docs/hooks-intro.html)
 
-## Discussions
+## 讨论
 
 - [React Hooks RFC](https://github.com/reactjs/rfcs/pull/68)
 
-## Tutorials
+## 教程
 
-- ["Making Sense of React Hooks" by Dan Abramov](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
-- ["From React.Component to hooks" by Octave Raimbault](https://medium.com/@dispix/from-react-component-to-hooks-b50241334365)
-- ["React Hooks: What’s going to happen to my tests?" by Kent C. Dodds](https://blog.kentcdodds.com/react-hooks-whats-going-to-happen-to-my-tests-df4c2b4d67b7)
-- ["State Management with React Hooks - No Redux or Context API" by André Gardi](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
-- ["How to Fetch Data with React Hooks?" by Robin Wieruch](https://www.robinwieruch.de/react-hooks-fetch-data/)
-- [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/)
-- [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
+- ["理解 React Hook" by Dan Abramov](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+- ["从 React.Component 到 hook 的转变" by Octave Raimbault](https://medium.com/@dispix/from-react-component-to-hooks-b50241334365)
+- ["使用 React Hook：测试会发生哪些变化？" by Kent C. Dodds](https://blog.kentcdodds.com/react-hooks-whats-going-to-happen-to-my-tests-df4c2b4d67b7)
+- ["使用 React Hook 进行状态管理 —— 不使用 Redux 或者 Context API" by André Gardi](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
+- ["如何使用 React Hook 进行数据获取？" by Robin Wieruch](https://www.robinwieruch.de/react-hooks-fetch-data/)
+- [React Hook 入门](https://testdriven.io/blog/react-hooks-primer/)
+- [React Hook —— 深入浅出 useContext 及 useReducer](https://testdriven.io/blog/react-hooks-advanced/)
 
-## Videos
+## 视频
 
-- [🎬 ReactConf 2018: React Today and Tomorrow by Sophie Alpert and Dan Abramov](https://youtu.be/V-QO-KO90iQ) Official announcement and first demo.
-- [🎬 ReactConf 2018: 90% Cleaner React by Ryan Florence](https://youtu.be/wXLf18DsV-I)
-- [🎬 React Hooks: A Complete Introduction by Harry Wolff](https://youtu.be/jd8R0a2Ur8Q)
-- [🎬 React Hooks playlist by Ben Awad](https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ)
-- [🎬 React Hooks playlist by Josh Ribakoff](https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
-- [🎬 React Hooks playlist by Michael Chan](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNf_mTUx1BgoP5POXwSAu-g)
+- [🎬 ReactConf 2018：React 立足现在，展望未来 by Sophie Alpert and Dan Abramov](https://youtu.be/V-QO-KO90iQ) 官方发布 Hook 及 Demo 演示。
+- [🎬 ReactConf 2018：90% Cleaner React by Ryan Florence](https://youtu.be/wXLf18DsV-I)
+- [🎬 React Hook：完整介绍 by Harry Wolff](https://youtu.be/jd8R0a2Ur8Q)
+- [🎬 React Hook 视频教程 by Ben Awad](https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ)
+- [🎬 React Hook 视频教程 by Josh Ribakoff](https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
+- [🎬 React Hook 视频教程 by Michael Chan](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNf_mTUx1BgoP5POXwSAu-g)
 
-## Podcasts
+## 播客
 
-- [React Hooks - Syntax](https://syntax.fm/show/092/react-hooks)
+- [React Hook - 语法规则](https://syntax.fm/show/092/react-hooks)
 
-## Tools
+## 工具
 
 - [`eslint-plugin-react-hooks`](https://www.npmjs.com/package/eslint-plugin-react-hooks)
-- [`hooks.macro`](https://www.npmjs.com/package/hooks.macro) Babel Macros for automatic memoization invalidation
+- [`hooks.macro`](https://www.npmjs.com/package/hooks.macro) 使 memoization（记忆化）自动失效的 Babel 宏
 - [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
-- [React Hooks Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=antmdvs.vscode-react-hooks-snippets)
-- [`hook-into-props`](https://github.com/juliettepretot/hook-into-props/tree/1e069a6c01c2a783100f2fea7709f56d8166a97e) Helper to build HOCs using hooks. Useful for using hooks with class components.
-- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use****** everywhere, Functional or Class Components
-- [Jooks](https://github.com/antoinejaussoin/jooks) Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)
+- [VS Code 中 React Hook 相关的 Snippets](https://marketplace.visualstudio.com/items?itemName=antmdvs.vscode-react-hooks-snippets)
+- [`hook-into-props`](https://github.com/juliettepretot/hook-into-props/tree/1e069a6c01c2a783100f2fea7709f56d8166a97e) 构建高阶组件时使用 hook 的 helper。这对在 class 组件中使用 hook 非常有帮助。
+- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React 通用的 Hook：无论函数式组件还是 class 组件，均可使用 use*******。
+- [Jooks](https://github.com/antoinejaussoin/jooks) 模拟 React 的 Hook API（例如：useState 等。)对自定义 hook 进行单元测试
 
-## Catalogs
+## 合集
 
-- [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
-- [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
-- [Hooks.guide](https://www.hooks.guide/) Collection of React hooks curated by the community.
-- [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
-- [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
-- [Use Hooks](https://use-hooks.org/) A collection of reusable React Hooks.
+- [crooks](https://github.com/chrisjpatty/crooks) 一系列独特的 React Hook。
+- [hooks-by-example](https://github.com/latviancoder/hooks-by-example) 收集对初学者友好的 hook 真实使用案例。
+- [Hooks.guide](https://www.hooks.guide/) 由社区策划发起的 React Hook 合集。
+- [可搜索的 React Hook 合集](https://nikgraf.github.io/react-hooks/)
+- [useHooks(🐠)](https://usehooks.com/) 每天一个新的 React Hook 技巧。
+- [使用 Hook](https://use-hooks.org/) 可复用的 React Hook 合集。
 
 ## Packages
 
