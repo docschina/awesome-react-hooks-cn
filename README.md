@@ -69,6 +69,7 @@
 - [`@d2k/react-devto`](https://github.com/bdbch/react-devto) React hook for Dev.to API requests
 - [`@d2k/react-github`](https://github.com/bdbch/react-github) React hook for Github API requests
 - [`@d2k/react-localstorage`](https://github.com/bdbch/react-localstorage) React hook that handles updating and clearing localstorage values while keeping them in sync with your components.
+- [`@elgorditosalsero/react-gtm-hook`](https://github.com/elgorditosalsero/react-gtm-hook) React hook for handle easily the Google Tag Manager.
 - [`@hookstate/core`](https://github.com/avkonst/hookstate) Modern, very fast and extendable state management for React.
 - [`@jzone/react-request-hook`](https://github.com/zhixiaoqiang/react-request-hook) 🐶React hook for custom request，compatible with various lib, support redux
 - [`@kevinwolf/formal`](https://github.com/kevinwolfcr/formal) Elegant form management primitives for the react hooks era.
@@ -100,6 +101,7 @@
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-cached-callback`](https://github.com/megazazik/react-cached-callback) React hooks for caching many callbacks by key, for example, in loops.
 - [`react-context-refs`](https://github.com/megazazik/react-context-refs) React hooks for getting refs of elements via context.
+- [`react-cool-dimensions`](https://github.com/wellyshen/react-cool-dimensions) 📏 React hook to measure an element's size and handle responsive components.
 - [`react-cool-inview`](https://github.com/wellyshen/react-cool-onclickoutside) 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).
 - [`react-cool-onclickoutside`](https://github.com/wellyshen/react-cool-onclickoutside) 🖱 React hook to listen for clicks outside of the component(s).
 - [`react-cool-portal`](https://github.com/wellyshen/react-cool-portal) 🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.
@@ -146,6 +148,7 @@
 - [`react-state-patterns`](https://github.com/mcclayton/react-state-patterns) Utility package for creating reusable implementations of React state provider patterns from hooks.
 - [`react-swipeable`](https://github.com/dogfessional/react-swipeable) React swipe event handler hook.
 - [`react-tracked`](https://github.com/dai-shi/react-tracked) Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
+- [`react-uniformed`](https://github.com/j-a-y-h/react-uniformed) 🚀 Declarative React forms using hooks.
 - [`react-use-api`](https://github.com/RyanRoll/react-use-api) Async HTTP request data for axios. Designed for diverse UI states, SSR and data pre-caching.
 - [`react-use-browser`](https://github.com/crossroads-loyalty-solutions/react-use-browser) A hook enabling client side hydration of Server-Side-Rendered components when server-produced markup needs to differ from the final client application markup.
 - [`react-use-calendar`](https://github.com/gregnb/react-use-calendar) A hook for implementing a calendar with events.
@@ -202,6 +205,7 @@
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
 - [`use-detect-print`](https://github.com/gregnb/use-detect-print) React hook to detect when a page is being printed.
 - [`use-dimensions`](https://github.com/CharlesStover/use-dimensions) React Native hook for getting screen and window dimensions.
+- [`use-double-click`](https://github.com/zattoo/use-double-click) React hook for continuous double-clicks and combining click and double-click events
 - [`use-eazy-auth`](https://github.com/gffuma/use-eazy-auth) React hooks for handle auth stuff.
 - [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
 - [`use-force-update`](https://github.com/CharlesStover/use-force-update) React hook for forcing re-render of a functional Component.
@@ -209,10 +213,13 @@
 - [`use-hovering`](https://github.com/therealparmesh/use-hovering) Simple, accessible React hook for tracking hover state.
 - [`use-http`](https://github.com/alex-cory/use-http) 🐶 useFetch, React hook for making isomorphic http requests.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
+- [`use-input-file`](https://github.com/neighborhood999/use-input-file) React hook for creating input file.
+- [`use-is-mounted-ref`](https://github.com/helderburato/use-is-mounted-ref) `useIsMountedRef` is a React Hook to check when the component is mounted.
 - [`use-lang-direction`](https://github.com/davidicus/use-lang-direction) A hook that reads the HTML element's `dir` attribute value and any updates to that value allowing you to update your UI accordingly.
 - [`use-media`](https://github.com/streamich/use-media) CSS media queries with React hook.
 - [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
 - [`use-multiselect`](https://github.com/jschloer/use-multiselect) Manage multiselect state.
+- [`use-overflow`](https://github.com/amorriscode/use-overflow) A React Hook that allows you to detect X and Y overflow
 - [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete) 📍 React hook for Google Maps Places Autocomplete.
 - [`use-popper`](https://github.com/sandiiarov/use-popper) React hook wrapper around Popper.js.
 - [`use-react-modal`](https://github.com/alex-cory/use-react-modal) 🖼 useModal, React hook for Modals/Dialogs/Lightboxes
@@ -224,6 +231,7 @@
 - [`use-simple-undo`](https://github.com/sandiiarov/use-simple-undo) Simple implementation of undo/redo functionality.
 - [`use-socketio`](https://github.com/mfrachet/use-socketio) React hooks to use with https://socket.io/.
 - [`use-socket.io-client`](https://github.com/iamgyz/use-socket.io-client) React hook for socket.io-client, manipulate [socket.io](https://socket.io) client without any side effect.
+- [`use-sse`](https://github.com/kmoskwiak/useSSE) ✨useSSE - use Server-Side Effect. `useEffect` both on client and server side.
 - [`use-ssr`](https://github.com/alex-cory/use-ssr) ☯️ React hook to determine if you are on the server, browser, or react native.
 - [`use-state-snapshots`](https://github.com/haydn/use-state-snapshots) A React hook to keep track of state changes for undo/redo functionality.
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
@@ -240,4 +248,4 @@
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
-
+- [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
