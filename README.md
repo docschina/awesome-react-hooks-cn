@@ -1,5 +1,7 @@
 # awesome-react-hooks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[English](https://github.com/rehooks/awesome-react-hooks.git) | 简体中文
+
 > Awesome React Hooks 资源
 
 ## 文档
