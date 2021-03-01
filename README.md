@@ -19,11 +19,11 @@
 - ["如何使用 React Hook 进行数据获取？" by Robin Wieruch](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [React Hook 入门](https://testdriven.io/blog/react-hooks-primer/)
 - [React Hook —— 深入浅出 useContext 及 useReducer](https://testdriven.io/blog/react-hooks-advanced/)
-- ["Using Custom React Hooks to Simplify Forms" by James King](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms)
-- [Testing of a Custom React Hook for Fetching Data with Axios](https://dev.to/doppelmutzi/testing-of-a-custom-react-hook-for-fetching-data-with-axios-4gf1)
-- [The Guide to Learning React Hooks (Examples & Tutorials) by Eric Bishard](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
-- ["Sanely Testing React Hooks" by Dave Cooper](https://dev.to/grug/sanely-testing-react-hooks-2l1j)
-- [React by Example: Hooks](https://reactbyexample.github.io/hooks)
+- ["使用自定义 React Hook 来简化表单" by James King](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms)
+- [用 Axios 测试自定义 React Hook 获取数据](https://dev.to/doppelmutzi/testing-of-a-custom-react-hook-for-fetching-data-with-axios-4gf1)
+- [React Hook 学习指南（示例及教程） by Eric Bishard](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
+- ["理智地对 React Hook 进行测试" by Dave Cooper](https://dev.to/grug/sanely-testing-react-hooks-2l1j)
+- [React Hook 示例](https://reactbyexample.github.io/hooks)
 
 ## 视频
 
@@ -48,21 +48,21 @@
 - [`hook-into-props`](https://github.com/juliettepretot/hook-into-props/tree/1e069a6c01c2a783100f2fea7709f56d8166a97e) 构建高阶组件时使用 hook 的 helper。这对在 class 组件中使用 hook 非常有帮助。
 - [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React 通用的 Hook：无论函数式组件还是 class 组件，均可使用 use*******。
 - [Jooks](https://github.com/antoinejaussoin/jooks) 模拟 React 的 Hook API（例如：useState 等。)对自定义 hook 进行单元测试
-- [`react-hooks-testing-library`](https://react-hooks-testing-library.com/) Library to create unit tests for custom React hooks.
+- [`react-hooks-testing-library`](https://react-hooks-testing-library.com/) 为自定义 React Hook 创建单元测试的库。
 
 ## 合集
 
-- [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
-- [Captain hook](https://github.com/stevenpersia/captain-hook) Modest list of hooks.
+- [ahooks](https://github.com/alibaba/hooks) 企业级应用的 React Hook 合集。
+- [Captain hook](https://github.com/stevenpersia/captain-hook) 轻量的 hook 合集。
 - [crooks](https://github.com/chrisjpatty/crooks) 一系列独特的 React Hook。
 - [hooks-by-example](https://github.com/latviancoder/hooks-by-example) 收集对初学者友好的 hook 真实使用案例。
 - [Hooks.guide](https://hooks-guide.netlify.app/) 由社区策划发起的 React Hook 合集。
-- [react-recipes](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
+- [react-recipes](https://github.com/craig1123/react-recipes) 👩‍🍳 收集基础 Hook 的食谱 🥘
 - [可搜索的 React Hook 合集](https://nikgraf.github.io/react-hooks/)
-- [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
+- [Sunflower(🌻)](https://github.com/ant-design/sunflower) antd 的流程组件。
 - [useHooks(🐠)](https://usehooks.com/) 每天一个新的 React Hook 技巧。
 - [使用 Hook](https://use-hooks.org/) 可复用的 React Hook 合集。
-- [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) A collection of hooks to speed-up your components and custom 
+- [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) hook 的合集，以加快组件的开发和定制。
 
 ## Packages
 
