@@ -54,6 +54,7 @@
 
 ## 合集
 
+<<<<<<< HEAD
 - [ahooks](https://github.com/alibaba/hooks) 企业级应用的 React Hook 合集。
 - [Captain hook](https://github.com/stevenpersia/captain-hook) 轻量的 hook 合集。
 - [crooks](https://github.com/chrisjpatty/crooks) 一系列独特的 React Hook。
@@ -65,6 +66,20 @@
 - [useHooks(🐠)](https://usehooks.com/) 每天一个新的 React Hook 技巧。
 - [使用 Hook](https://use-hooks.org/) 可复用的 React Hook 合集。
 - [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) hook 的合集，以加快组件的开发和定制。
+=======
+- [@react-hookz/web](https://github.com/react-hookz/web) - A library of general-purpose React hooks built with care and SSR compatibility in mind.
+- [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
+- [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) A collection of hooks to speed-up your components and custom hooks development.
+- [Captain hook](https://github.com/stevenpersia/captain-hook) Modest list of hooks.
+- [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
+- [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
+- [Hooks.guide](https://hooks-guide.netlify.app/) Collection of React hooks curated by the community.
+- [react-recipes](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
+- [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
+- [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
+- [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
+- [Use Hooks](https://use-hooks.org/) A collection of reusable React Hooks.
+>>>>>>> f151ae2105a8b7a750a6ad89de70e41cb1388e80
 
 ## Packages
 
