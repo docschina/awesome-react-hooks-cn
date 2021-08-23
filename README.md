@@ -54,6 +54,7 @@
 
 ## 合集
 
+<<<<<<< HEAD
 - [ahooks](https://github.com/alibaba/hooks) 企业级应用的 React Hook 合集。
 - [Captain hook](https://github.com/stevenpersia/captain-hook) 轻量的 hook 合集。
 - [crooks](https://github.com/chrisjpatty/crooks) 一系列独特的 React Hook。
@@ -65,6 +66,20 @@
 - [useHooks(🐠)](https://usehooks.com/) 每天一个新的 React Hook 技巧。
 - [使用 Hook](https://use-hooks.org/) 可复用的 React Hook 合集。
 - [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) hook 的合集，以加快组件的开发和定制。
+=======
+- [@react-hookz/web](https://github.com/react-hookz/web) - A library of general-purpose React hooks built with care and SSR compatibility in mind.
+- [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
+- [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) A collection of hooks to speed-up your components and custom hooks development.
+- [Captain hook](https://github.com/stevenpersia/captain-hook) Modest list of hooks.
+- [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
+- [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
+- [Hooks.guide](https://hooks-guide.netlify.app/) Collection of React hooks curated by the community.
+- [react-recipes](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
+- [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
+- [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
+- [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
+- [Use Hooks](https://use-hooks.org/) A collection of reusable React Hooks.
+>>>>>>> 044aca04005ff383cca9dd8a5504ca0bc1befdf0
 
 ## Packages
 
@@ -118,6 +133,7 @@
 - [`react-countdown-hook`](https://github.com/alexkhismatulin/react-use-count-down) Dead simple yet powerful countdown hook for React. Powered by `requestAnimationFrame`.
 - [`react-darkreader`](https://github.com/Turkyden/react-darkreader) 🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.
 - [`react-declare-form`](https://github.com/andy9775/react-declare-form) React hook based declarative form library.
+- [`react-deep-hooks`](https://github.com/codeshake/react-deep-hooks) React hooks for non-primitive dependencies.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
 - [`react-enhanced-reducer-hook`](https://github.com/shiningjason/react-enhanced-reducer-hook) An alternative to `useReducer` that accepts middlewares.
 - [`react-fetch-hook`](https://github.com/ilyalesik/react-fetch-hook) React hook for conveniently use Fetch API.
@@ -184,6 +200,7 @@
 - [`react-use-path`](https://github.com/zhangkaiyulw/react-use-path) The tiniest hook style react router.
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
 - [`react-use-trigger`](https://github.com/ilyalesik/react-use-trigger) React hook for trigger effect from any place of code
+- [`react-use-watch`](https://github.com/iam-frankqiu/react-use-watch) A React hook about triggers once only when dependencies have changed.
 - [`react-use-wavelet`](https://github.com/perlin-network/react-use-wavelet) React hooks for connecting to the Wavelet smart-contract platform
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
