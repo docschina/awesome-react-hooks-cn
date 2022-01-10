@@ -39,7 +39,13 @@
 
 ## 播客
 
+<<<<<<< HEAD
 - [React Hook - 语法规则](https://syntax.fm/show/092/react-hooks)
+=======
+- [React Hooks - Syntax (Nov 14th, 2018)](https://syntax.fm/show/092/react-hooks)
+- [React Hooks 1 Year Later - Syntax (Mar 18, 2020)](https://syntax.fm/show/232/react-hooks-1-year-later)
+- [Why should I use React Hooks? - Syntax (Dec 7th, 2020)](https://syntax.fm/show/307/hasty-treat-why-should-i-use-react-hooks)
+>>>>>>> 33424d3e810c864ca69e379b74d195094b08a8e3
 
 ## 工具
 
@@ -103,6 +109,7 @@
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`@rekindle/use-request`](https://github.com/react-rekindle/use-request) 🤖 React hook for making request.
+- [`@rkrupinski/use-state-machine`](https://github.com/rkrupinski/use-state-machine) A finite state machine hook.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
 - [`@webscopeio/react-health-check`](https://github.com/webscopeio/react-health-check) 🏥 Lightweight React hook for checking health of API services.
 - [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
@@ -238,7 +245,7 @@
 - [`use-context-selector`](https://github.com/dai-shi/use-context-selector) React useContextSelector hook in userland.
 - [`use-controlled-input-number`](https://github.com/d-asensio/use-controlled-input-number) React hook to turn numeric input behavior into pretty much what you expect.
 - [`use-countries`](https://github.com/oktaysenkan/use-countries) Custom react hook to list countries and languages.
-- [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce hook for React.
+- [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce (and throttle) hook for React.
 - [`use-deep-compare`](https://github.com/sandiiarov/use-deep-compare) It's react's useEffect/useMemo/useCallback hooks, except using deep comparison on the inputs.
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
 - [`use-detect-print`](https://github.com/gregnb/use-detect-print) React hook to detect when a page is being printed.
