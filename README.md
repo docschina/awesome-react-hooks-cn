@@ -39,13 +39,9 @@
 
 ## 播客
 
-<<<<<<< HEAD
-- [React Hook - 语法规则](https://syntax.fm/show/092/react-hooks)
-=======
 - [React Hooks - Syntax (Nov 14th, 2018)](https://syntax.fm/show/092/react-hooks)
 - [React Hooks 1 Year Later - Syntax (Mar 18, 2020)](https://syntax.fm/show/232/react-hooks-1-year-later)
 - [Why should I use React Hooks? - Syntax (Dec 7th, 2020)](https://syntax.fm/show/307/hasty-treat-why-should-i-use-react-hooks)
->>>>>>> 33424d3e810c864ca69e379b74d195094b08a8e3
 
 ## 工具
 
@@ -60,19 +56,6 @@
 
 ## 合集
 
-<<<<<<< HEAD
-- [ahooks](https://github.com/alibaba/hooks) 企业级应用的 React Hook 合集。
-- [Captain hook](https://github.com/stevenpersia/captain-hook) 轻量的 hook 合集。
-- [crooks](https://github.com/chrisjpatty/crooks) 一系列独特的 React Hook。
-- [hooks-by-example](https://github.com/latviancoder/hooks-by-example) 收集对初学者友好的 hook 真实使用案例。
-- [Hooks.guide](https://hooks-guide.netlify.app/) 由社区策划发起的 React Hook 合集。
-- [react-recipes](https://github.com/craig1123/react-recipes) 👩‍🍳 收集基础 Hook 的食谱 🥘
-- [可搜索的 React Hook 合集](https://nikgraf.github.io/react-hooks/)
-- [Sunflower(🌻)](https://github.com/ant-design/sunflower) antd 的流程组件。
-- [useHooks(🐠)](https://usehooks.com/) 每天一个新的 React Hook 技巧。
-- [使用 Hook](https://use-hooks.org/) 可复用的 React Hook 合集。
-- [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) hook 的合集，以加快组件的开发和定制。
-=======
 - [@react-hookz/web](https://github.com/react-hookz/web) - A library of general-purpose React hooks built with care and SSR compatibility in mind.
 - [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
 - [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) A collection of hooks to speed-up your components and custom hooks development.
@@ -85,7 +68,6 @@
 - [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
 - [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
 - [Use Hooks](https://use-hooks.org/) A collection of reusable React Hooks.
->>>>>>> 044aca04005ff383cca9dd8a5504ca0bc1befdf0
 
 ## Packages
 
