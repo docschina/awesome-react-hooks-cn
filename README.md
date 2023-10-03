@@ -39,7 +39,9 @@
 
 ## 播客
 
-- [React Hook - 语法规则](https://syntax.fm/show/092/react-hooks)
+- [React Hooks - Syntax (Nov 14th, 2018)](https://syntax.fm/show/092/react-hooks)
+- [React Hooks 1 Year Later - Syntax (Mar 18, 2020)](https://syntax.fm/show/232/react-hooks-1-year-later)
+- [Why should I use React Hooks? - Syntax (Dec 7th, 2020)](https://syntax.fm/show/307/hasty-treat-why-should-i-use-react-hooks)
 
 ## 工具
 
@@ -54,19 +56,6 @@
 
 ## 合集
 
-<<<<<<< HEAD
-- [ahooks](https://github.com/alibaba/hooks) 企业级应用的 React Hook 合集。
-- [Captain hook](https://github.com/stevenpersia/captain-hook) 轻量的 hook 合集。
-- [crooks](https://github.com/chrisjpatty/crooks) 一系列独特的 React Hook。
-- [hooks-by-example](https://github.com/latviancoder/hooks-by-example) 收集对初学者友好的 hook 真实使用案例。
-- [Hooks.guide](https://hooks-guide.netlify.app/) 由社区策划发起的 React Hook 合集。
-- [react-recipes](https://github.com/craig1123/react-recipes) 👩‍🍳 收集基础 Hook 的食谱 🥘
-- [可搜索的 React Hook 合集](https://nikgraf.github.io/react-hooks/)
-- [Sunflower(🌻)](https://github.com/ant-design/sunflower) antd 的流程组件。
-- [useHooks(🐠)](https://usehooks.com/) 每天一个新的 React Hook 技巧。
-- [使用 Hook](https://use-hooks.org/) 可复用的 React Hook 合集。
-- [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) hook 的合集，以加快组件的开发和定制。
-=======
 - [@react-hookz/web](https://github.com/react-hookz/web) - A library of general-purpose React hooks built with care and SSR compatibility in mind.
 - [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
 - [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) A collection of hooks to speed-up your components and custom hooks development.
@@ -79,7 +68,6 @@
 - [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
 - [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
 - [Use Hooks](https://use-hooks.org/) A collection of reusable React Hooks.
->>>>>>> 044aca04005ff383cca9dd8a5504ca0bc1befdf0
 
 ## Packages
 
@@ -103,6 +91,7 @@
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`@rekindle/use-request`](https://github.com/react-rekindle/use-request) 🤖 React hook for making request.
+- [`@rkrupinski/use-state-machine`](https://github.com/rkrupinski/use-state-machine) A finite state machine hook.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
 - [`@webscopeio/react-health-check`](https://github.com/webscopeio/react-health-check) 🏥 Lightweight React hook for checking health of API services.
 - [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
@@ -238,7 +227,7 @@
 - [`use-context-selector`](https://github.com/dai-shi/use-context-selector) React useContextSelector hook in userland.
 - [`use-controlled-input-number`](https://github.com/d-asensio/use-controlled-input-number) React hook to turn numeric input behavior into pretty much what you expect.
 - [`use-countries`](https://github.com/oktaysenkan/use-countries) Custom react hook to list countries and languages.
-- [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce hook for React.
+- [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce (and throttle) hook for React.
 - [`use-deep-compare`](https://github.com/sandiiarov/use-deep-compare) It's react's useEffect/useMemo/useCallback hooks, except using deep comparison on the inputs.
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
 - [`use-detect-print`](https://github.com/gregnb/use-detect-print) React hook to detect when a page is being printed.
